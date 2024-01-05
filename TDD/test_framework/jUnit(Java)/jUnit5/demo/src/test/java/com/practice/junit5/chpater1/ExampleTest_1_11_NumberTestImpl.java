@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Test;
 
-public class ExampleTest_1_11_NumberTestImpl implements ExampleTest_1_11 {
+public class ExampleTest_1_11_NumberTestImpl implements ExampleTest_1_11Test {
 
     @Override
     public boolean isPrime(int number) {
